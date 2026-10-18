@@ -22,7 +22,7 @@ Welcome to my personal archive and development workbench.
 <p align="center">
   <a href="https://github.com/keshavmishra27">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=keshavmishra27&bg_color=0d1117&color=c9d1d9&line=70c0a0&point=e6c27a&area=true&hide_border=true&custom_title=Contribution%20Activity"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=keshavmishra27&theme=github-compact&hide_border=true"
       alt="GitHub contribution activity line graph"
       width="100%"
     />
