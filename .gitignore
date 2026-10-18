@@ -1,6 +1,9 @@
 # Ignore all project folders and subdirectories
-/*/
-
+/.agent
+/bug-fight-arena-mvp
+/bug-fight-story-typescript-mvp
+/bugflight-mvp
+/portfolio-book-typescript
 # Exception: keep assets directory required by README.md preview image
 !/assets/
 
