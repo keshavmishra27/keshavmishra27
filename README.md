@@ -34,10 +34,9 @@ turning ideas into software that people can actually use.
 
 | Project | What It Demonstrates | Tech Stack |
 |---|---|---|
-| **[BlueprintAI](YOUR_REPO_LINK)** | Agentic AI, repository intelligence, and LLM orchestration | Python, CrewAI, FastAPI, GitHub API |
-| **[FireSuchak AI](YOUR_REPO_LINK)** | Geospatial intelligence and temporal analysis for fire and thermal-anomaly detection | Python, NASA FIRMS, geospatial data, RNN/GRU |
-| **[Attendify](YOUR_REPO_LINK)** | Mobile attendance, QR-based identity linking, and Bluetooth presence verification | Flutter, Dart, FastAPI, BLE |
-| **[FRI](YOUR_REPO_LINK)** | Project-specific problem solving and implementation | Add verified technologies |
+| **[BlueprintAI](https://github.com/keshavmishra27/BlueprintAI)** | Agentic AI, repository intelligence, and LLM orchestration | Python, CrewAI, FastAPI, GitHub API |
+| **[FireSuchak AI](https://github.com/keshavmishra27/firesuchak)** | Geospatial intelligence and temporal analysis for fire and thermal-anomaly detection | Python, NASA FIRMS, geospatial data, RNN/GRU |
+| **[FRI](https://github.com/keshavmishra27/FRI)** | Project-specific problem solving and implementation | Add verified technologies |
 
 **Core Toolkit:** Python · FastAPI · SQL · Machine Learning ·
 LLMs · Agentic AI · Git/GitHub · Flutter
