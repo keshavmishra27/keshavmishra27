@@ -29,10 +29,6 @@ turning ideas into software that people can actually use.
 **Core Toolkit:** Python · FastAPI · SQL · Machine Learning ·
 LLMs · Agentic AI · Git/GitHub · Flutter
 
-
-
-## GitHub Contribution Activity
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/keshavmishra27/keshavmishra27/activity-assets/activity-365d.svg"
