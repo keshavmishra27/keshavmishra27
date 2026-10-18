@@ -1,6 +1,3 @@
-
-## 👋 Hey, I'm Keshav!
-
 <p align="center">
   <img
     src="assets\keshav_retro_pixel_intro.gif"
