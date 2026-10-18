@@ -16,9 +16,18 @@ Welcome to my personal archive and development workbench.
 - **Interactive Experiments:** Canvas-based physics & game prototypes, interactive developer tools
 
 
-## 📈 GitHub Contributions
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/40916c/keshavmishra27)
+## 📊 GitHub Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/keshavmishra27">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=keshavmishra27&bg_color=0d1117&color=c9d1d9&line=70c0a0&point=e6c27a&area=true&hide_border=true&custom_title=Contribution%20Activity"
+      alt="GitHub contribution activity line graph"
+      width="100%"
+    />
+  </a>
+</p>
 
 
 Find more of my repositories and projects below!
