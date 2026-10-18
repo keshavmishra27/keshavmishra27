@@ -1,0 +1,23 @@
+# Ignore all project folders and subdirectories
+/*/
+
+# Exception: keep assets directory required by README.md preview image
+!/assets/
+
+# Specific project directories (for reference):
+# /bug-fight-arena-mvp/
+# /bug-fight-story-typescript-mvp/
+# /bugflight-mvp/
+# /portfolio-book-typescript/
+# /.agent/
+
+# Project archives and packages
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Dependencies and system files
+node_modules/
+.DS_Store
+Thumbs.db

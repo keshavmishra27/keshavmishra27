@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Keshav Mishra 👋
 
-<!--
-**keshavmishra27/keshavmishra27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal archive and development workbench.
 
-Here are some ideas to get you started:
+## 📖 My Portfolio Book
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Open Keshav's interactive portfolio book](./assets/portfolio-book-preview.svg)](https://keshavmishra27.github.io/portfolio-book/)
+
+*Click above or visit [keshavmishra27.github.io/portfolio-book](https://keshavmishra27.github.io/portfolio-book/) to turn the pages and explore my featured projects, technical workbench, and interactive demos.*
+
+---
+
+### 🛠️ Core Focus & Technologies
+- **AI & Geospatial Intelligence:** Python, Satellite Data Analysis (NASA FIRMS, Earth Observation), Deep Learning (RNN/GRU)
+- **Software Engineering & Web:** TypeScript, FastAPI, Vite, Modern Responsive Web, REST APIs
+- **Interactive Experiments:** Canvas-based physics & game prototypes, interactive developer tools
+
+
+## 📈 GitHub Contributions
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/40916c/keshavmishra27)
+
+
+Find more of my repositories and projects below!
