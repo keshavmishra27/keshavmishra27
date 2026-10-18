@@ -26,14 +26,18 @@ works as intended.
 My focus is not just on making a model or prototype work, but on
 turning ideas into software that people can actually use.
 
-
-###  How I Prove It
-
-| Project | What It Demonstrates | Tech Stack |
-|---|---|---|
-| **[BlueprintAI](https://github.com/keshavmishra27/BlueprintAI)** | Agentic AI, repository intelligence, and LLM orchestration | Python, CrewAI, FastAPI, GitHub API |
-| **[FireSuchak AI](https://github.com/keshavmishra27/firesuchak)** | Geospatial intelligence and temporal analysis for fire and thermal-anomaly detection | Python, NASA FIRMS, geospatial data, RNN/GRU |
-| **[FRI](https://github.com/keshavmishra27/FRI)** | Project-specific problem solving and implementation | Add verified technologies |
-
 **Core Toolkit:** Python · FastAPI · SQL · Machine Learning ·
 LLMs · Agentic AI · Git/GitHub · Flutter
+
+
+
+## GitHub Contribution Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/keshavmishra27/keshavmishra27/activity-assets/activity-365d.svg"
+    alt="GitHub contribution activity over the last 365 days"
+    width="100%"
+  />
+</p>
+
